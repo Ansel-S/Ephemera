@@ -43,8 +43,8 @@ body::before{
 }
 
 ::-webkit-scrollbar {
-  width: 4px;
-  height: 16px;
+  width: 6px;
+  height: 8px;
   background-color: transparent;
 }
 
