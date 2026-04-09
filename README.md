@@ -4,7 +4,7 @@
 
 Ephemera is a lightweight tool designed to solve "tab debt." It strips away the clutter of traditional "read-it-later" apps, forcing you to prioritize what truly matters by limiting your queue and visualizing the passage of time.
 
-[Live Demo](https://ansel-s.github.io/ephemera/)
+[Live Demo](https://asong56.github.io/Ephemera/)
 
 ---
 
